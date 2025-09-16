@@ -1,0 +1,51 @@
+{
+  "ecommerce_keywords": [
+    "virtual",
+    "prepaid virtual",
+    "internet",
+    "e-commerce",
+    "online",
+    "web",
+    "digital",
+    "non-reloadable"
+  ],
+  "pos_only_keywords": [
+    "domestic use only",
+    "pos only",
+    "atm only",
+    "offline only"
+  ],
+  "known_online_banks": [
+    "revolut",
+    "wise",
+    "n26",
+    "monzo",
+    "bunq",
+    "payoneer",
+    "skrill",
+    "paypal",
+    "neteller",
+    "paysafe"
+  ],
+  "known_pos_only_banks": [
+    "melli bank iran",
+    "bank saderat iran",
+    "bank mellat",
+    "post bank iran"
+  ],
+  "score_weights": {
+    "ecommerce_keyword": 50,
+    "known_online_bank": 30,
+    "pos_only_keyword": -80,
+    "known_pos_only_bank": -90
+  }
+}
+
+
+
+
+
+
+
+
+
